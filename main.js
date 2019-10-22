@@ -1,22 +1,29 @@
-function doubleAll() {
+function doubleAll(str) {
+
 }
 
-function absoluteValues() {
+function absoluteValues(str) {
+
 }
 
-function yelledGreetings() {
+function yelledGreetings(str) {
+
 }
 
-function changeToInitials() {
+function changeToInitials(str) {
+
 }
 
-function doubleOdd() {
+function doubleOdd(str) {
+
 }
 
-function upperCaseFirstLetters() {
+function upperCaseFirstLetters(str) {
+
 }
 
-function add1ToLeft() {
+function add1ToLeft(str) {
+
 }
 
 
